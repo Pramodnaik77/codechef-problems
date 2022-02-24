@@ -1,3 +1,4 @@
+// https://www.codechef.com/INFI21C/problems/DOLL/
 #include <stdio.h>
 
 int main(void) 
